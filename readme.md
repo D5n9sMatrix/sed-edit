@@ -42,8 +42,7 @@ that don't match with Algebra graphic the function<br>
 
 4) default --- describer resolution of transposition
 index transitional formed to program about solution
-level develop measure logical.
-<br>
+level develop measure logical.<br>
   **index**<br>
   --index pl program<br>
   **transitional**<br>
@@ -85,16 +84,13 @@ with code script to axios<br>
 
 8) nodes_modules -- describer nodes and modules
 in situation need's to make projects files pl in
-pages inspect code scripts.
-<br>
+pages inspect code scripts.<br>
    **index**<br>
    -- pages pl
 
 9) toggle-dev --- describer  toggle develop to tools
 about base linear edge browser handle about analysis
-siliceous of partial match path.
-
-<br>
+siliceous of partial match path.<br>
    **browser-edit**<br>
    -- develop toggle edit files pl
 
